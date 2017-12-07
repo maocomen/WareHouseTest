@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"打印第一行");
+    NSLog(@"打印第二行");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
