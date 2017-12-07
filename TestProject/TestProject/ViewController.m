@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"打印第一行");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
