@@ -21,6 +21,7 @@
     NSLog(@"打印第二行");
     NSLog(@"打印第三行");
     NSLog(@"打印第四行");
+    NSLog(@"打印第五行");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
